@@ -68,5 +68,3 @@ sudo -u bitcoin /usr/local/bin/bitcoind' /etc/rc.local
 
 echo "############ Add an alias for easy use"
 echo "alias btc=\"sudo -u bitcoin bitcoin-cli -datadir=/home/bitcoin/.bitcoin\"" >> ~/.bashrc  # example use: btc getinfo
-
-shutdown -r +2
