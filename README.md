@@ -1,5 +1,4 @@
 >**NOTE:**
-  * a
   * b
 
 Breaking Changes:
