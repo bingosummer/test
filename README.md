@@ -1,6 +1,6 @@
 aa>**NOTE:**
-  * a
-  * b
+  * aa
+  * bb
 
 Breaking Changes:
 - Change the Azure CPI job name from `cpi` to `azure_cpi`. You should update your `bosh.yml`.
